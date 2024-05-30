@@ -6,7 +6,7 @@ Simple Windows app to monitor your ping.
 The app allows you to ping a location periodically while logging the results to a .csv file.
 Additionally, the ping is analyzed to display the status and stats of your network in real time.
 
-<img src="https://gitlab.com/issambenelgada/PingMonitor/-/raw/master/screenshots/Capture%20d'%C3%A9cran%202024-05-30%20135115.png?ref_type=heads">
+<img src="https://github.com/issamBenelgada/PingMonitor/blob/main/screenshots/Capture%20d'%C3%A9cran%202024-05-30%20135115.png?raw=true">
 
 
 ## Use cases
@@ -76,8 +76,8 @@ The app uses a configuration file inside the executable folder named 'config.jso
 ### Screenshots
 
 
-<img src="https://gitlab.com/issambenelgada/PingMonitor/-/raw/master/screenshots/Capture%20d'%C3%A9cran%202024-05-30%20135229.png?ref_type=heads">
+<img src="https://github.com/issamBenelgada/PingMonitor/blob/main/screenshots/Capture%20d'%C3%A9cran%202024-05-30%20135229.png?raw=true">
 
 
-<img src="https://gitlab.com/issambenelgada/PingMonitor/-/raw/master/screenshots/Capture%20d'%C3%A9cran%202024-05-30%20160333.png?ref_type=heads">
+<img src="https://github.com/issamBenelgada/PingMonitor/blob/main/screenshots/Capture%20d'%C3%A9cran%202024-05-30%20160333.png?raw=true">
 
