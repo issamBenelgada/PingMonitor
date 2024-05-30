@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'">
+    <link rel="stylesheet" href="style.css">
+    <title>Ping monitor</title>
+  </head>
+  <body>
+    <h2 class="statusType">
+      Status Last Minute
+    </h2>
+    <div id="status-short-div">
+      <h2 id="status-short-message">GOOD</h2>
+    </div>
+
+    <h2 class="statusType">
+      Status Last 5 Minute
+    </h2>
+    <div id="status-long-div">
+      <h2 id="status-long-message">GOOD</h2>
+    </div>
+
+    <div id="stats-div">
+      Ping: <span id="ping">0</span> ms
+      <br/>
+      <br/>
+      Ping mean: <span id="ping-mean">0</span> ms
+      <br/>
+      <br/>
+      Ping mean without peaks: <span id="ping-mean-without-peaks">0</span> ms
+      <br/>
+      <br/>
+      Ping median: <span id="ping-median">0</span> ms
+      <br/>
+      <br/>
+      Peaks per minute: <span id="peaks-per-minute">0</span> peaks
+      <br/>
+      <br/>
+      Peaks mean ping: <span id="peaks-mean-ping">0</span> ms
+      <br/>
+      <br/>
+      Peaks max ping: <span id="peaks-max-ping">0</span> ms
+      <br/>
+      <br/>
+      Time with good network: <span id="time-network-good">0 s</span>
+    </div>
+    <script src="./renderer.js"></script>
+  </body>
+</html>

@@ -1,0 +1,36 @@
+#status-short-div {
+    background-color: green;
+    color: white;
+    border: 2px solid black;
+    margin: 20px;
+    text-align: center;
+    vertical-align: middle;
+  }
+
+#status-short-message {
+    font-size: 40px;
+}
+
+#status-long-div {
+  background-color: green;
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+#status-long-message {
+  font-size: 40px;
+}
+
+.statusType{
+  margin: 20px;
+}
+
+#stats-div {
+    border: 2px solid black;
+    margin: 20px;
+    padding: 10px;
+    font-weight: bold;
+  }

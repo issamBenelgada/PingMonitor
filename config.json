@@ -1,0 +1,8 @@
+{
+  "address": "fr-prvltr.metercdn.net",
+  "interval": 100,
+  "peakThreshold": 200,
+  "nbPeaksMaxPerMinuteGood": 2,
+  "nbPeaksMaxPerMinuteModerate": 5,
+  "nbPeaksMaxPerMinuteBad": 20
+}
